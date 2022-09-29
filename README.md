@@ -1,4 +1,4 @@
- # Martin's ping command list
+ # ping-commands
 
  __Use to check connections to the internet and other devices.__
 
